@@ -22,7 +22,7 @@
 author:
     # Site's author name
     # Default: not set (author name is not displayed)
-    name: Build Site
+    name: your-name
 
     # Site's author email
     # Default: not set (author email is not displayed)
@@ -221,7 +221,7 @@ plugins:
 #################
 
 # Site title
-title: Your awesome title
+title: Test Site
 
 # Site description
 description: > # this means to ignore newlines until the text ends
